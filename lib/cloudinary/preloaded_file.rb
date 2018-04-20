@@ -35,4 +35,7 @@ class Cloudinary::PreloadedFile
   def to_file
   end
   
+  def content_type
+  end
+  
 end
