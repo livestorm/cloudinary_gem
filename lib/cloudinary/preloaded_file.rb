@@ -32,4 +32,7 @@ class Cloudinary::PreloadedFile
   def path
   end
   
+  def to_file
+  end
+  
 end
