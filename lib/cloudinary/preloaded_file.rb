@@ -29,4 +29,7 @@ class Cloudinary::PreloadedFile
     return [public_id, format]    
   end
   
+  def path
+  end
+  
 end
